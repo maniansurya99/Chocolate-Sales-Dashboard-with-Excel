@@ -20,7 +20,7 @@ Visualization of Sales, Boxes, Shipments, Cost, Profit, Month on Month percentil
 
 Analysis of Top Team performance using bubble chart, and top salesman performance using Team Performance Report.
 
-![Chocolate Sales](dash.png)
+![Chocolate Sales](dash1.png)
 
 ## Prerequisites
 Microsoft Excel with Power Pivot and DAX support.
